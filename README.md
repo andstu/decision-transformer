@@ -1,4 +1,6 @@
 
+[Link to Original Repo](https://github.com/kzl/decision-transformer)
+
 # Decision Transformer
 
 Lili Chen\*, Kevin Lu\*, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas†, and Igor Mordatch†
